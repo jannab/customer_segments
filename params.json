@@ -1,0 +1,6 @@
+{
+  "name": "Customer Segments",
+  "tagline": "Creating Customer Segments",
+  "body": "### About\r\nThis project is part of the Udacity Machine Learning Engineer Nanodegree (https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009).\r\n\r\n### Project Summary\r\nCreated customer segments for a wholesale distributor in Lisbon, Portugal using unsupervised learning techniques and python.\r\n\r\nSteps involved:\r\n- applied preprocessing techniques such as feature scaling and outlier detection\r\n- interpreted data points that have been scaled, transformed or reduced from PCA\r\n- analyzed PCA dimensions and construct new feature space\r\n- clustered a set of data to find hidden patterns in a dataset\r\n- assessed information given by cluster data and use it in a meaningful way\r\n\r\n![Customer Segments Screenshot](https://github.com/jannab/customer_segments/blob/master/customer_segments_image.png?raw=true)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
